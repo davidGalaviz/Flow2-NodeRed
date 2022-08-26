@@ -3,7 +3,7 @@ En este repositorio se muestran los archivos para realizar el flow2 del curso de
 
 ## Introducción
 
-Este ejercicio permite demostrar el uso de el nodo function en NodeRed. Este ejecicio consiste en darle un formato legible para humanos al timestamp y mostrar la fecha en la sección debug.
+Este ejercicio permite demostrar el uso de el nodo function en NodeRed. Este ejecicio consiste en darle un formato legible para humanos al timestamp y mostrar la fecha en la sección debug. Se usaran los siguentes nodos
 
 - Inject
 
