@@ -1,0 +1,21 @@
+[
+    {
+        "id": "8795e5a799510664",
+        "type": "function",
+        "z": "f83c8cf60da1946a",
+        "name": "function 1",
+        "func": "var date = new Date(msg.payload)\nmsg.payload = date.toString();\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 180,
+        "wires": [
+            [
+                "c7722c11fb643240"
+            ]
+        ]
+    }
+]
